@@ -16,8 +16,8 @@ This is a sample Java Spring Boot application that provides RESTful APIs to mana
 
 - Java 17
 - Spring Boot
-- MySQL
-- Maven
+- Postgres
+- Gradle
 
 ## How to Run
 
